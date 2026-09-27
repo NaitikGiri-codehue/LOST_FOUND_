@@ -275,7 +275,9 @@ The project demonstrates how Python concepts such as functions, lists, dictionar
 Although the current version is simple, it provides a good base for adding more features and developing the project into a larger management system.
 
 ## 🔗 AUTHOR
-
+Name--Naitik Nishchal Giri
+Course--B.Tech Computer Science Engineering
+University--VIT Bhopal
 Created as a college Python project.
 
 This project is developed for learning and academic purposes.
